@@ -1,0 +1,44 @@
+body {
+  background-color: #f4f0ee;
+  text-align:center;
+}
+
+ul li  {
+  list-style-position: inside;
+  text-align: center;
+}
+
+img {
+  display: block;
+  padding-bottom: 25px;
+  max-width: 60%;
+  margin: 0 auto;
+}
+
+.cupcakeBio {
+  background-color: #ffd9e4;
+  margin: 0 auto;
+  width: 70%;
+  border-radius: 10px;
+}
+
+.flashy  {
+  color: 	#65c4c8;
+  font-style: italic;
+  text-align: center;
+}
+.itemname  {
+  text-align: center;
+  font-size: 30px;
+  padding-top: 15px;
+  font-weight: 100;
+
+}
+.best  {
+  background-color: #a8dbdf;
+}
+
+.aboutme  {
+  margin: 0 auto;
+  padding-top: 10px
+}
