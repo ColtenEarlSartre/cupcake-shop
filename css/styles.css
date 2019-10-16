@@ -61,9 +61,6 @@ img {
 
 .Biocontent  {
   padding: 15px 20px;
-}
-.fuzzy  {
-  border-radius: 20px;
   padding: 0;
 }
 .resizedimage  {
@@ -71,3 +68,8 @@ img {
   width: 70%;
   border-radius: 10px;
 }
+
+/* .column  {
+  float: left;
+  width: 300px;
+} */
