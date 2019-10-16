@@ -48,8 +48,8 @@ img {
   font-size: 30px;
   padding-top: 15px;
   font-weight: 100;
-
 }
+
 .best  {
   background-color: #a8dbdf;
 }
@@ -70,6 +70,18 @@ img {
 }
 
 /* .column  {
-  float: left;
-  width: 300px;
+float: left;
+width: 300px;
 } */
+
+.centeralign  {
+  text-align: center;
+}
+
+.sidebar  {
+  padding-top: 50px;
+  width: 20%;
+  float: right;
+  background-color: #b88bc2;
+  height: 100vh;
+}
