@@ -44,11 +44,14 @@ img {
 }
 
 .Biocontent  {
-  padding-top: 15px;
-  padding-bottom: 15px;
-  padding-left: 20px;
-  padding-right: 20px;
+  padding: 15px 20px;
 }
 .fuzzy  {
-  border-radius: 20px
+  border-radius: 20px;
+  padding: 0;
+}
+.resizedimage  {
+  margin: 0 auto;
+  width: 70%;
+  border-radius: 10px;
 }
